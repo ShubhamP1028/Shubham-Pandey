@@ -1,4 +1,4 @@
-📌 Shubham Pandey
+## Shubham Pandey
 👋 Hi, I’m Shubham, a third-year B.Tech student majoring in Data Science and Machine Learning! I’m passionate about turning data into insights and building intelligent systems. Currently, I’m diving into Cloud Computing and DevOps to scale my skills. Welcome to my GitHub, where I share my projects and learning journey!
 
 🌱 Learning: Deepening my expertise in ML, exploring cloud platforms, and mastering DevOps tools like Docker.
