@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Shubham Pandey
 
-**Data Science Undergraduate | Machine Learning Enthusiast **
+### Data Science Undergraduate | Machine Learning Enthusiast 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shubham1028)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shubham30p@gmail.com)
