@@ -1,10 +1,10 @@
 # 👋 Hi, I'm Shubham Pandey
 
-**Data Science Undergraduate | Machine Learning Enthusiast | Full-Stack Developer**
+**Data Science Undergraduate | Machine Learning Enthusiast **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/shubham1028)
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shubham30p@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://shubhamp1028.github.io) *(Coming Soon!)*
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://pandeyshubham.vercel.app) 
 
 ---
 
@@ -75,7 +75,7 @@ NLU-to-SQL pipeline achieving 78% query match accuracy on 40K+ record database.
 - **Complete Data Science & ML** - GeeksForGeeks
 - **Azure Fundamentals** - Microsoft
 - **SQL Intermediate Certified**
-- **Google Data Analytics** *(In Progress)*
+- **Google Data Analytics**
 
 ---
 
@@ -86,6 +86,7 @@ I'm always open to discussing:
 - Research collaborations
 - Internship opportunities
 - Tech in general!
+- Philosophy, Various branches of Science & Sociology
 
 📫 Reach me at: **shubham30p@gmail.com**
 
