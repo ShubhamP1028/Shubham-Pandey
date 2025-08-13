@@ -10,35 +10,30 @@
 
 ## 🔥 Current Focus
 
-- 🔭 Working on **MLOps pipelines for exoplanet classification models**
-- 🌱 Learning **Advanced NLP techniques and Azure cloud services**
-- 👯 Looking to collaborate on **data visualization and analytics projects**
+
+
+- 🔭 Learning **Big Data** & **MLOps pipelines**
+- ⚔️ **Advanced NLP techniques and Azure cloud services**
+- 👯 Looking for **Data Science and Analytics** Internships and Part-time jobs.
 - 💬 Ask me about **Python, SQL, or anything data-related!**
 
 ---
 
 ## 🛠️ Technical Skills
 
-### Languages & Frameworks
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
+![Skills](https://skillicons.dev/icons?i=python,tensorflow,pytorch,mysql,flask,aws,docker,azure,mongo,postgres)
 
-### Data Science Stack
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![Scikit-Learn](https://img.shields.io/badge/ScikitLearn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-
-### DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white)
-
-### Visualization Tools
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
 ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat&logo=plotly&logoColor=white)
+![NLTK](https://img.shields.io/badge/NLTK-259d9c?style=flat&logo=python&logoColor=white)
+![spaCy](https://img.shields.io/badge/spaCy-09a3d5?style=flat&logo=spacy&logoColor=white)
+![Hadoop](https://img.shields.io/badge/Hadoop-F2C811?style=flat&logo=apachehadoop&logoColor=black)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![ANN](https://img.shields.io/badge/ANN-FF6F00?style=flat&logo=tensorflow&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-FF6F00?style=flat&logo=keras&logoColor=white)
+
 
 ---
 <!---
@@ -64,18 +59,48 @@ NLU-to-SQL pipeline achieving 78% query match accuracy on 40K+ record database.
 
 ## 📈 GitHub Stats
 
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamp1028&show_icons=true&theme=radical&count_private=true)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shubhamp1028&theme=transformative&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamp1028&theme=transformative)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamp1028&layout=compact&theme=radical)
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamp1028&show_icons=true&theme=vue&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamp1028&layout=compact&theme=dracula)
 
 ---
 
 ## 🏆 Certifications
 
-- **Complete Data Science & ML** - GeeksForGeeks
-- **Azure Fundamentals** - Microsoft
-- **SQL Intermediate Certified**
-- **Google Data Analytics**
+<div align="center">
+  <a href="LINK_TO_CERTIFICATE_1">
+    <img src="https://custom-icon-badges.demolab.com/badge/IBM Data Warehouse-052FAD?style=for-the-badge&logo=ibm" alt="IBM Data Warehouse">
+  </a>
+  <a href="LINK_TO_CERTIFICATE_2">
+    <img src="https://custom-icon-badges.demolab.com/badge/Microsoft Power BI-F2C811?style=for-the-badge&logo=powerbi" alt="Power BI">
+  </a>
+  <br>
+  <a href="LINK_TO_CERTIFICATE_3">
+    <img src="https://custom-icon-badges.demolab.com/badge/Google Analytics-4285F4?style=for-the-badge&logo=google" alt="Google Analytics">
+  </a>
+  <a href="LINK_TO_CERTIFICATE_4">
+    <img src="https://custom-icon-badges.demolab.com/badge/Azure Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure" alt="Azure">
+  </a>
+</div>
+
+<details>
+<summary><b>View All Certifications</b></summary>
+
+**IBM**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ibm/ibm-original.svg" width="16"/> **IBM**: Data Warehouse Engineer, Data Analysis  
+
+**SQL**
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" width="16"/> **SQL**: Intermediate Certified
+
+**Microsoft**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="16"/> **Google**: Data Analytics, BigQuery  
+
+**Google**  
+- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" width="16"/> **Microsoft**: Power BI, Azure Fundamentals 
+
+</details>
 
 ---
 
