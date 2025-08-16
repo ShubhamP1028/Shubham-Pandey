@@ -6,6 +6,7 @@
 [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:shubham30p@gmail.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=google-chrome)](https://pandeyshubham.vercel.app) 
 
+[![Spotify](https://img.shields.io/badge/Listen_on_Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/track/5leuT90qq5V4glfgAs651F)
 ---
 
 ## 🔥 Current Focus
