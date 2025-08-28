@@ -60,10 +60,10 @@ NLU-to-SQL pipeline achieving 78% query match accuracy on 40K+ record database.
 
 ## 📈 GitHub Stats
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=shubhamp1028&theme=transformative&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamp1028&theme=transformative)](https://git.io/streak-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=shubhamp1028&theme=dracula&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamp1028&theme=dracula)](https://git.io/streak-stats)
 
-![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamp1028&show_icons=true&theme=vue&count_private=true)
+![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamp1028&show_icons=true&theme=dracula&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamp1028&layout=compact&theme=dracula)
 
 ---
@@ -71,18 +71,21 @@ NLU-to-SQL pipeline achieving 78% query match accuracy on 40K+ record database.
 ## 🏆 Certifications
 
 <div align="center">
-  <a href="LINK_TO_CERTIFICATE_1">
-    <img src="https://custom-icon-badges.demolab.com/badge/IBM Data Warehouse-052FAD?style=for-the-badge&logo=ibm" alt="IBM Data Warehouse">
+  <a href="https://www.coursera.org/account/accomplishments/records/9PPW53XGFZK7">
+    <img width="250" alt="DataWarehouse" src="https://github.com/user-attachments/assets/34f25cd4-fc63-4f64-8c2a-0db14d949e08" />
   </a>
-  <a href="LINK_TO_CERTIFICATE_2">
-    <img src="https://custom-icon-badges.demolab.com/badge/Microsoft Power BI-F2C811?style=for-the-badge&logo=powerbi" alt="Power BI">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/DEKMC7H2ECFV">
+    <img width="250" alt="Microsoft AIML Engineering" src="https://github.com/user-attachments/assets/f2595ce9-c569-4498-b939-258c6a1d08bd"/>
   </a>
   <br>
-  <a href="LINK_TO_CERTIFICATE_3">
-    <img src="https://custom-icon-badges.demolab.com/badge/Google Analytics-4285F4?style=for-the-badge&logo=google" alt="Google Analytics">
+  <a href="https://www.coursera.org/account/accomplishments/specialization/OJYGSDEJ6H0O">
+    <img width="250"  alt="PowerBI_DataAnalystCertification" src="https://github.com/user-attachments/assets/5f2d63bc-97e9-4480-8279-ea3178e38526" />
   </a>
-  <a href="LINK_TO_CERTIFICATE_4">
-    <img src="https://custom-icon-badges.demolab.com/badge/Azure Fundamentals-0078D4?style=for-the-badge&logo=microsoftazure" alt="Azure">
+  <a href="https://www.coursera.org/account/accomplishments/records/GSW9DA7YH1Z0">
+    <img width="250"  alt="BIEssential" src="https://github.com/user-attachments/assets/6d2c1d41-d64a-43e2-ab67-9d08271afb80" />
+  </a>
+  <a href="">
+    <img width="250"  alt="AdvancedDBMS" src="https://github.com/user-attachments/assets/806c7b0c-dd2e-4928-815a-6ebbc456b454" />
   </a>
 </div>
 
