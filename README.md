@@ -61,9 +61,9 @@ NLU-to-SQL pipeline achieving 78% query match accuracy on 40K+ record database.
 ## 📈 GitHub Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shubhamp1028&theme=dracula&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-[![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamp1028&theme=dracula)](https://git.io/streak-stats)
-
 ![Shubham's GitHub Stats](https://github-readme-stats.vercel.app/api?username=shubhamp1028&show_icons=true&theme=dracula&count_private=true)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=shubhamp1028&theme=dracula)](https://git.io/streak-stats)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=shubhamp1028&layout=compact&theme=dracula)
 
 ---
