@@ -119,12 +119,7 @@ I'm always open to discussing:
 
 📫 Reach me at: **shubham30p@gmail.com**
 
-<!-- Visitors counter -->
-![](https://komarev.com/ghpvc/?username=shubhamp1028&color=blueviolet&label=Visits)
 <!---
-
-# Visitor Counter 
-![Visitor Count](https://api.visitorbadge.io/api/combined?path=https%3A%2F%2Fgithub.com%2Fshubhamp1028&countColor=%450920&labelStyle=upper)
 
 NewbieShubham/NewbieShubham is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
